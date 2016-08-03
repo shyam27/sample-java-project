@@ -23,7 +23,8 @@
     </connection>
     <url>@project.scm.url@</url>
   </scm>
-
+ <dependencies>
+</dependencies>
   <developers>
     <developer>
       <name>Christopher Wellons</name>
